@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org:uddi4j:2.0.5" type="repository">
+    <properties maven-id="org:uddi4j:2.0.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/uddi4j/2.0.5/uddi4j-2.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
